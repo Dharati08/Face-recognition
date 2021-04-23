@@ -2,13 +2,13 @@
 
 **Folder hierarchy:**
 
-<br>Face Recognition/CelebA/CelebAPre-processing.ipynb </br>            &nbsp;&nbsp;&nbsp; (Data Preprocessing File) &nbsp;
-<br>Face Recognition/CelebA/img_align_celeba </br>(Dataset link: https://drive.google.com/drive/folders/0B7EVK8r0v71pWEZsZE9oNnFzTm8)
-<br>Face Recognition/CelebA/README - Dataset.txt</br> (Dataset Discription)
-<br>../Anaconda3/envs/facenetEnv/Lib/site-packages/facenet/src/Find_Embeddings.ipynb</br> (To create the embeddings for face images)
-<br>../Anaconda3/envs/facenetEnv/Lib/site-packages/facenet/src/CelebA_svm_10000.ipynb</br> (Face recognition for first 10,000 images)
-<br>../Anaconda3/envs/facenetEnv/Lib/site-packages/facenet/src/CelebA_svm_20000.ipynb</br> (Face recognition for first 20,000 images)
-<br>../Anaconda3/envs/facenetEnv/Lib/site-packages/facenet/src/CelebA_svm_50000.ipynb</br> (Face recognition for first 50,000 images)
+<br>Face Recognition/CelebA/CelebAPre-processing.ipynb </br>            &nbsp;&nbsp;&nbsp;&nbsp; (Data Preprocessing File)
+<br>Face Recognition/CelebA/img_align_celeba </br>  &nbsp;&nbsp;&nbsp;&nbsp; (Dataset link: https://drive.google.com/drive/folders/0B7EVK8r0v71pWEZsZE9oNnFzTm8)
+<br>Face Recognition/CelebA/README - Dataset.txt</br> &nbsp;&nbsp;&nbsp;&nbsp;  (Dataset Discription)
+<br>../Anaconda3/envs/facenetEnv/Lib/site-packages/facenet/src/Find_Embeddings.ipynb</br> &nbsp;&nbsp;&nbsp;&nbsp;  (To create the embeddings for face images)
+<br>../Anaconda3/envs/facenetEnv/Lib/site-packages/facenet/src/CelebA_svm_10000.ipynb</br>  &nbsp;&nbsp;&nbsp;&nbsp; (Face recognition for first 10,000 images)
+<br>../Anaconda3/envs/facenetEnv/Lib/site-packages/facenet/src/CelebA_svm_20000.ipynb</br>  &nbsp;&nbsp;&nbsp;&nbsp; (Face recognition for first 20,000 images)
+<br>../Anaconda3/envs/facenetEnv/Lib/site-packages/facenet/src/CelebA_svm_50000.ipynb</br>  &nbsp;&nbsp;&nbsp;&nbsp; (Face recognition for first 50,000 images)
 
 **Problem Statement and Objectives**
 
