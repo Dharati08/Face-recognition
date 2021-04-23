@@ -2,7 +2,7 @@
 
 **Folder hierarchy:**
 
-<br>Face Recognition/CelebA/CelebAPre-processing.ipynb </br>             (Data Preprocessing File) &nbsp;
+<br>Face Recognition/CelebA/CelebAPre-processing.ipynb </br>            &nbsp;&nbsp;&nbsp; (Data Preprocessing File) &nbsp;
 <br>Face Recognition/CelebA/img_align_celeba </br>(Dataset link: https://drive.google.com/drive/folders/0B7EVK8r0v71pWEZsZE9oNnFzTm8)
 <br>Face Recognition/CelebA/README - Dataset.txt</br> (Dataset Discription)
 <br>../Anaconda3/envs/facenetEnv/Lib/site-packages/facenet/src/Find_Embeddings.ipynb</br> (To create the embeddings for face images)
