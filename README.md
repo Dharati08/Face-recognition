@@ -3,7 +3,7 @@
 **Folder hierarchy:**
 
 Face Recognition/CelebA/CelebAPre-processing.ipynb (Data Preprocessing File)
-                    .../img_align_celeba (Dataset link: https://drive.google.com/drive/folders/0B7EVK8r0v71pWEZsZE9oNnFzTm8)
+                   /n .../img_align_celeba (Dataset link: https://drive.google.com/drive/folders/0B7EVK8r0v71pWEZsZE9oNnFzTm8)
                     .../README - Dataset.txt
 ../Anaconda3/envs/facenetEnv/Lib/site-packages/facenet/src/CelebA_svm_10000.ipynb
                                                        .../CelebA_svm_20000.ipynb
