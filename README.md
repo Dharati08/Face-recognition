@@ -1,6 +1,6 @@
 # Face recognition as Biometric Security with a Scalable Approach
 
-**Folder hierarchy:
+**Folder hierarchy:**
 
 Face Recognition/CelebA/CelebAPre-processing.ipynb (Data Preprocessing File)
                     .../img_align_celeba (Dataset link: https://drive.google.com/drive/folders/0B7EVK8r0v71pWEZsZE9oNnFzTm8)
