@@ -5,9 +5,12 @@
 <br>Face Recognition/CelebA/CelebAPre-processing.ipynb (Data Preprocessing File) </br>
 <br>Face Recognition/CelebA/img_align_celeba (Dataset link: https://drive.google.com/drive/folders/0B7EVK8r0v71pWEZsZE9oNnFzTm8)</br>
 <br>Face Recognition/CelebA/README - Dataset.txt</br>
+
+<br>../Anaconda3/envs/facenetEnv/Lib/site-packages/facenet/src/Find_Embeddings.ipynb</br>
 <br>../Anaconda3/envs/facenetEnv/Lib/site-packages/facenet/src/CelebA_svm_10000.ipynb</br>
-<br>                                                      .../CelebA_svm_20000.ipynb</br>
-<br>                                                     .../CelebA_svm_50000.ipynb</br>
+<br>../Anaconda3/envs/facenetEnv/Lib/site-packages/facenet/src/CelebA_svm_20000.ipynb</br>
+<br>../Anaconda3/envs/facenetEnv/Lib/site-packages/facenet/src/CelebA_svm_50000.ipynb</br>
+
 
 
 **Problem Statement and Objectives**
